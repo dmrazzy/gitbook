@@ -22,6 +22,7 @@
   - [Security And Griefing](paymasters/security-and-griefing.md)
   - [Design Patterns](paymasters/design-patterns.md)
   - [Examples And SDKs](paymasters/examples-and-sdks.md)
+  - [New: Paymaster Signature](paymasters/paymaster-signature.md)
 
 - [⛓️ L2s](l2s/)
   - [README](l2s/README.md)
