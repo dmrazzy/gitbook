@@ -25,6 +25,7 @@ nav:
     - paymasters/security-and-griefing.md
     - paymasters/design-patterns.md
     - paymasters/examples-and-sdks.md
+    - paymasters/paymaster-signature.md
   - "⛓️ L2s":
     - l2s/README.md
     - l2s/rip-7560.md
