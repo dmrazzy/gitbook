@@ -49,6 +49,10 @@ nav:
     - resources/reading-material.md
     - resources/videos.md
     - resources/faqs.md
+  - "⚙️ Userops Guide":
+    - userops/quick-start.md
+    - userops/basic.md
+    - userops/sponsor.md
 
 theme:
   name: material
