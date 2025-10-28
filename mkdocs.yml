@@ -26,6 +26,10 @@ nav:
     - paymasters/design-patterns.md
     - paymasters/examples-and-sdks.md
     - paymasters/paymaster-signature.md
+  - "📝 7702 Userops Guide":
+    - userops/quick-start.md
+    - userops/basic.md
+    - userops/sponsor.md
   - "⛓️ L2s":
     - l2s/README.md
     - l2s/rip-7560.md
@@ -49,10 +53,6 @@ nav:
     - resources/reading-material.md
     - resources/videos.md
     - resources/faqs.md
-  - "⚙️ Userops Guide":
-    - userops/quick-start.md
-    - userops/basic.md
-    - userops/sponsor.md
 
 theme:
   name: material
